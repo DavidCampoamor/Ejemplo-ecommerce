@@ -1,0 +1,182 @@
+[
+{
+    "id": "buzo-americano",
+    "titulo": "Buzo Americano",
+    "imagen": "./img/abrigo/buzo-americano.jpg",
+    "categoria": {
+        "nombre": "Abrigos",
+        "id": "abrigos"
+    },
+    "precio": 14000
+},
+{
+    "id": "buzo-canguro",
+    "titulo": "Buzo Canguro",
+    "imagen": "./img/abrigo/buzo-canguro.webp",
+    "categoria": {
+        "nombre": "Abrigos",
+        "id": "abrigos"
+    },
+    "precio": 10000
+},
+{
+    "id": "campera-uniqlo",
+    "titulo": "Campera Uniqlo",
+    "imagen": "./img/abrigo/campera-uniqlo.webp",
+    "categoria": {
+        "nombre": "Abrigos",
+        "id": "abrigos"
+    },
+    "precio": 20000
+},
+{
+    "id": "chaqueta",
+    "titulo": "Chaqueta",
+    "imagen": "./img/abrigo/chaqueta.jpg",
+    "categoria": {
+        "nombre": "Abrigos",
+        "id": "abrigos"
+    },
+    "precio": 25000
+},
+{
+    "id": "parka",
+    "titulo": "Parka",
+    "imagen": "./img/abrigo/parka.png",
+    "categoria": {
+        "nombre": "Abrigos",
+        "id": "abrigos"
+    },
+    "precio": 30000
+},
+{
+    "id": "remera-acdc",
+    "titulo": "Remera ACDC",
+    "imagen": "./img/remera/remera-acdc.jpg",
+    "categoria": {
+        "nombre": "Camisetas",
+        "id": "camisetas"
+    },
+    "precio": 8000
+},
+{
+    "id": "remera-dc",
+    "titulo": "Remera DC",
+    "imagen": "./img/remera/remera-dc.webp",
+    "categoria": {
+        "nombre": "Camisetas",
+        "id": "camisetas"
+    },
+    "precio": 5000
+},
+{
+    "id": "remera-guns",
+    "titulo": "Remera Guns",
+    "imagen": "./img/remera/remera-guns.webp",
+    "categoria": {
+        "nombre": "Camisetas",
+        "id": "camisetas"
+    },
+    "precio": 7000
+},
+{
+    "id": "remera-nirvana",
+    "titulo": "Remera Nirvana",
+    "imagen": "./img/remera/remera-nirvana.jpg",
+    "categoria": {
+        "nombre": "Camisetas",
+        "id": "camisetas"
+    },
+    "precio": 7000
+},
+{
+    "id": "remera-ramones",
+    "titulo": "Remera Ramones",
+    "imagen": "./img/remera/remera-ramones.jpg",
+    "categoria": {
+        "nombre": "Camisetas",
+        "id": "camisetas"
+    },
+    "precio": 8000
+},
+{
+    "id": "remera-redhot",
+    "titulo": "Remera Red Hot",
+    "imagen": "./img/remera/remera-redhot.webp",
+    "categoria": {
+        "nombre": "Camisetas",
+        "id": "camisetas"
+    },
+    "precio": 7000
+},
+{
+    "id": "reemra-stones",
+    "titulo": "Remera Stones",
+    "imagen": "./img/remera/remera-stones.jpg",
+    "categoria": {
+        "nombre": "Camisetas",
+        "id": "camisetas"
+    },
+    "precio": 8000
+},
+{
+    "id": "remera-vans",
+    "titulo": "Remera Vans",
+    "imagen": "./img/remera/remera-vans.jpg",
+    "categoria": {
+        "nombre": "Camisetas",
+        "id": "camisetas"
+    },
+    "precio": 5000
+},
+{
+    "id": "pantalon-camuflado",
+    "titulo": "Pantalón Camuflado",
+    "imagen": "./img/pantalon/pantalon-camuflado.webp",
+    "categoria": {
+        "nombre": "Pantalones",
+        "id": "pantalones"
+    },
+    "precio": 9000
+},
+{
+    "id": "pantalon-cargo",
+    "titulo": "Pantalón Cargo",
+    "imagen": "./img/pantalon/pantalon-cargo.jpg",
+    "categoria": {
+        "nombre": "Pantalones",
+        "id": "pantalones"
+    },
+    "precio": 10000
+},
+{
+    "id": "pantalon-gabardina",
+    "titulo": "Pantalón Gabardina",
+    "imagen": "./img/pantalon/pantalon-gabardina.jpg",
+    "categoria": {
+        "nombre": "Pantalones",
+        "id": "pantalones"
+    },
+    "precio": 7000
+},
+{
+    "id": "pantalon-hippie",
+    "titulo": "Pantalón Hippie",
+    "imagen": "./img/pantalon/pantalon-hippie.jpg",
+    "categoria": {
+        "nombre": "Pantalones",
+        "id": "pantalones"
+    },
+    "precio": 4000
+},
+{
+    "id": "pantalon-jean",
+    "titulo": "Pantalón Jean",
+    "imagen": "./img/pantalon/pantalon-jean.jpg",
+    "categoria": {
+        "nombre": "Pantalones",
+        "id": "pantalones"
+    },
+    "precio": 9000
+}
+]
